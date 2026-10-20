@@ -24,8 +24,13 @@ Representación gráfica y superposición de datos: Utilizamos las primitivas gr
 
 Visualización del resultado:
 
+Ejemplo 1: 
 
+![alt text](image-1.png)
 
+Ejemplo 2: 
+
+![alt text](image-2.png)
 
 
 ## Tarea 2: 
